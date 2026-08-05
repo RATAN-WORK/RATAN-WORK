@@ -58,5 +58,4 @@ Regulatory  IEC 62304  ·  ISO 13485  ·  IEC 60601  ·  ISO 14971  ·  CDSCO MD
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ratan%20Kumar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ratan-kumar-03a615190)
 [![Email](https://img.shields.io/badge/Email-ratansrivastava.work%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ratansrivastava.work@gmail.com)
