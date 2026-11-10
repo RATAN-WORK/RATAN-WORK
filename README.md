@@ -1,9 +1,9 @@
 # Ratan Kumar
 
-**Team Leader — Embedded Systems & Healthcare Biomedical Devices**  
+**Head of Department (HOD) — Embedded Systems & Healthcare Biomedical Devices**  
 Lucknow, Uttar Pradesh, India
 
-15+ years building firmware, biomedical devices, and edge AI systems for clinical and industrial environments. Currently leading CDSCO regulatory certification for 10 deployed medical devices at [Criterion Tech](https://github.com/CriterionWorks).
+13+ years building firmware, biomedical devices, and edge AI systems for clinical and industrial environments. Currently leading CDSCO regulatory certification for 10 deployed medical devices at [Criterion Tech](https://github.com/CriterionWorks).
 
 ---
 
@@ -21,9 +21,9 @@ Lucknow, Uttar Pradesh, India
 
 | Project | Description |
 |---------|-------------|
-| **rPPG Vital Sign Monitor** | Remote photoplethysmography — ±2 BPM accuracy, validated on 500+ real-world datasets |
+| **rPPG Vital Sign Monitor** | Remote photoplethysmography — contactless heart-rate estimation from camera video |
 | **Multi-parameter Patient Monitor** | ECG + SpO2 + BP with BLE 5.0 + AES-128 encryption |
-| **Edge ML Compression Pipeline** | TensorFlow Lite INT8 quantization — 2.4 MB → 180 KB, 95% accuracy retained on ARM Cortex-M4 |
+| **Edge ML Compression Pipeline** | TensorFlow Lite INT8 quantization and on-device inference on ARM Cortex-M4 |
 | **Medical Training Manikins** | Real-time 16-channel biosensor firmware at 1 kHz for high-fidelity clinical simulation |
 | **CDSCO Certification Programme** | Leading Gate 0–5 DHF framework for 10 deployed medical devices |
 
@@ -31,7 +31,7 @@ Lucknow, Uttar Pradesh, India
 
 ## Publications
 
-**Heart Sound Classification Using Machine Learning and Deep Learning Methods**
+**Heart Sound Classification Using Machine Learning and Deep Learning Methods** — R. Kumar, R. Mishra, A. Srivastava, IEEE ICIICS 2024 ([IEEE Xplore](https://ieeexplore.ieee.org/document/10859682))
 
 ---
 
@@ -51,8 +51,8 @@ Regulatory  IEC 62304  ·  ISO 13485  ·  IEC 60601  ·  ISO 14971  ·  CDSCO MD
 ## Education
 
 - **Professional Certificate — Generative AI & Machine Learning**, IIT Guwahati (2025)
-- **M.Tech — Electronics & Communication Engineering**, IET Lucknow (2022)
-- **B.Tech — Electronics & Communication Engineering**, APJ Abdul Kalam Technological University (2009)
+- **M.Tech — Electronics & Communication Engineering**, Institute of Engineering and Technology (IET), Dr. RML Avadh University, Ayodhya (Jun 2022)
+- **B.Tech — Electronics & Communication Engineering**, APJ Abdul Kalam Technological University (Jun 2009)
 
 ---
 
